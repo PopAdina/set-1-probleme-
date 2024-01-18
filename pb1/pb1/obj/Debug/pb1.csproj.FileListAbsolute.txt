@@ -1,0 +1,7 @@
+D:\set 1\pb1\pb1\obj\Debug\pb1.csproj.AssemblyReference.cache
+D:\set 1\pb1\pb1\obj\Debug\pb1.csproj.CoreCompileInputs.cache
+D:\set 1\pb1\pb1\bin\Debug\pb1.exe.config
+D:\set 1\pb1\pb1\bin\Debug\pb1.exe
+D:\set 1\pb1\pb1\bin\Debug\pb1.pdb
+D:\set 1\pb1\pb1\obj\Debug\pb1.exe
+D:\set 1\pb1\pb1\obj\Debug\pb1.pdb
