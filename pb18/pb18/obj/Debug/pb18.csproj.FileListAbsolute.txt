@@ -1,0 +1,7 @@
+D:\set 1\pb18\pb18\bin\Debug\pb18.exe.config
+D:\set 1\pb18\pb18\bin\Debug\pb18.exe
+D:\set 1\pb18\pb18\bin\Debug\pb18.pdb
+D:\set 1\pb18\pb18\obj\Debug\pb18.csproj.AssemblyReference.cache
+D:\set 1\pb18\pb18\obj\Debug\pb18.csproj.CoreCompileInputs.cache
+D:\set 1\pb18\pb18\obj\Debug\pb18.exe
+D:\set 1\pb18\pb18\obj\Debug\pb18.pdb
