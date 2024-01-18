@@ -1,0 +1,7 @@
+D:\set 1\pb2\pb2\obj\Debug\pb2.csproj.AssemblyReference.cache
+D:\set 1\pb2\pb2\obj\Debug\pb2.csproj.CoreCompileInputs.cache
+D:\set 1\pb2\pb2\bin\Debug\pb2.exe.config
+D:\set 1\pb2\pb2\bin\Debug\pb2.exe
+D:\set 1\pb2\pb2\bin\Debug\pb2.pdb
+D:\set 1\pb2\pb2\obj\Debug\pb2.exe
+D:\set 1\pb2\pb2\obj\Debug\pb2.pdb

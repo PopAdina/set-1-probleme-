@@ -1,0 +1,7 @@
+D:\set 1\pb3\pb3\bin\Debug\pb3.exe.config
+D:\set 1\pb3\pb3\bin\Debug\pb3.exe
+D:\set 1\pb3\pb3\bin\Debug\pb3.pdb
+D:\set 1\pb3\pb3\obj\Debug\pb3.csproj.AssemblyReference.cache
+D:\set 1\pb3\pb3\obj\Debug\pb3.csproj.CoreCompileInputs.cache
+D:\set 1\pb3\pb3\obj\Debug\pb3.exe
+D:\set 1\pb3\pb3\obj\Debug\pb3.pdb
