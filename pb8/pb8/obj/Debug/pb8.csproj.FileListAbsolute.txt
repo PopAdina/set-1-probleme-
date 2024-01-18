@@ -1,0 +1,7 @@
+D:\set 1\pb8\pb8\obj\Debug\pb8.csproj.AssemblyReference.cache
+D:\set 1\pb8\pb8\obj\Debug\pb8.csproj.CoreCompileInputs.cache
+D:\set 1\pb8\pb8\bin\Debug\pb8.exe.config
+D:\set 1\pb8\pb8\bin\Debug\pb8.exe
+D:\set 1\pb8\pb8\bin\Debug\pb8.pdb
+D:\set 1\pb8\pb8\obj\Debug\pb8.exe
+D:\set 1\pb8\pb8\obj\Debug\pb8.pdb

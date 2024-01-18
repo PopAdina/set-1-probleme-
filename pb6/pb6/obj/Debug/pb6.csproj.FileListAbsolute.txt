@@ -1,0 +1,7 @@
+D:\set 1\pb6\pb6\obj\Debug\pb6.csproj.AssemblyReference.cache
+D:\set 1\pb6\pb6\obj\Debug\pb6.csproj.CoreCompileInputs.cache
+D:\set 1\pb6\pb6\bin\Debug\pb6.exe.config
+D:\set 1\pb6\pb6\bin\Debug\pb6.exe
+D:\set 1\pb6\pb6\bin\Debug\pb6.pdb
+D:\set 1\pb6\pb6\obj\Debug\pb6.exe
+D:\set 1\pb6\pb6\obj\Debug\pb6.pdb

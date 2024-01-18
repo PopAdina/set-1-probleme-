@@ -1,0 +1,7 @@
+D:\set 1\pb7\pb7\bin\Debug\pb7.exe.config
+D:\set 1\pb7\pb7\bin\Debug\pb7.exe
+D:\set 1\pb7\pb7\bin\Debug\pb7.pdb
+D:\set 1\pb7\pb7\obj\Debug\pb7.csproj.AssemblyReference.cache
+D:\set 1\pb7\pb7\obj\Debug\pb7.csproj.CoreCompileInputs.cache
+D:\set 1\pb7\pb7\obj\Debug\pb7.exe
+D:\set 1\pb7\pb7\obj\Debug\pb7.pdb

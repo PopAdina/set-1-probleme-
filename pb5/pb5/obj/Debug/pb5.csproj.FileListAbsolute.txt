@@ -1,0 +1,7 @@
+D:\set 1\pb5\pb5\obj\Debug\pb5.csproj.AssemblyReference.cache
+D:\set 1\pb5\pb5\obj\Debug\pb5.csproj.CoreCompileInputs.cache
+D:\set 1\pb5\pb5\bin\Debug\pb5.exe.config
+D:\set 1\pb5\pb5\bin\Debug\pb5.exe
+D:\set 1\pb5\pb5\bin\Debug\pb5.pdb
+D:\set 1\pb5\pb5\obj\Debug\pb5.exe
+D:\set 1\pb5\pb5\obj\Debug\pb5.pdb
