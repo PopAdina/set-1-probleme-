@@ -1,0 +1,7 @@
+D:\set 1\pb12\pb12\bin\Debug\pb12.exe.config
+D:\set 1\pb12\pb12\bin\Debug\pb12.exe
+D:\set 1\pb12\pb12\bin\Debug\pb12.pdb
+D:\set 1\pb12\pb12\obj\Debug\pb12.csproj.AssemblyReference.cache
+D:\set 1\pb12\pb12\obj\Debug\pb12.csproj.CoreCompileInputs.cache
+D:\set 1\pb12\pb12\obj\Debug\pb12.exe
+D:\set 1\pb12\pb12\obj\Debug\pb12.pdb

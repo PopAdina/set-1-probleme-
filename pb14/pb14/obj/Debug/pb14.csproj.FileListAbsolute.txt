@@ -1,0 +1,7 @@
+D:\set 1\pb14\pb14\obj\Debug\pb14.csproj.AssemblyReference.cache
+D:\set 1\pb14\pb14\obj\Debug\pb14.csproj.CoreCompileInputs.cache
+D:\set 1\pb14\pb14\bin\Debug\pb14.exe.config
+D:\set 1\pb14\pb14\bin\Debug\pb14.exe
+D:\set 1\pb14\pb14\bin\Debug\pb14.pdb
+D:\set 1\pb14\pb14\obj\Debug\pb14.exe
+D:\set 1\pb14\pb14\obj\Debug\pb14.pdb

@@ -1,0 +1,7 @@
+D:\set 1\pb16\pb16\bin\Debug\pb16.exe.config
+D:\set 1\pb16\pb16\bin\Debug\pb16.exe
+D:\set 1\pb16\pb16\bin\Debug\pb16.pdb
+D:\set 1\pb16\pb16\obj\Debug\pb16.csproj.AssemblyReference.cache
+D:\set 1\pb16\pb16\obj\Debug\pb16.csproj.CoreCompileInputs.cache
+D:\set 1\pb16\pb16\obj\Debug\pb16.exe
+D:\set 1\pb16\pb16\obj\Debug\pb16.pdb

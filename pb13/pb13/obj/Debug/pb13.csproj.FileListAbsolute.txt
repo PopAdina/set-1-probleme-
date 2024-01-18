@@ -1,0 +1,7 @@
+D:\set 1\pb13\pb13\obj\Debug\pb13.csproj.AssemblyReference.cache
+D:\set 1\pb13\pb13\obj\Debug\pb13.csproj.CoreCompileInputs.cache
+D:\set 1\pb13\pb13\bin\Debug\pb13.exe.config
+D:\set 1\pb13\pb13\bin\Debug\pb13.exe
+D:\set 1\pb13\pb13\bin\Debug\pb13.pdb
+D:\set 1\pb13\pb13\obj\Debug\pb13.exe
+D:\set 1\pb13\pb13\obj\Debug\pb13.pdb

@@ -1,0 +1,7 @@
+D:\set 1\pb17\pb17\obj\Debug\pb17.csproj.AssemblyReference.cache
+D:\set 1\pb17\pb17\obj\Debug\pb17.csproj.CoreCompileInputs.cache
+D:\set 1\pb17\pb17\bin\Debug\pb17.exe.config
+D:\set 1\pb17\pb17\bin\Debug\pb17.exe
+D:\set 1\pb17\pb17\bin\Debug\pb17.pdb
+D:\set 1\pb17\pb17\obj\Debug\pb17.exe
+D:\set 1\pb17\pb17\obj\Debug\pb17.pdb
